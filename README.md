@@ -1,6 +1,6 @@
 <h1 align="center">Salom 👋, men Diyorbek</h1>
 <h3 align="center">O‘zbekistonlik ishtiyoqli frontend dasturchisi</h3>
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width:40px;>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400px" align="right">
 
 <p align="left"> <a href=" https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diiyoruz206" alt="diiyoruz206" /> </a> </p>
 
