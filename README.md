@@ -3,8 +3,6 @@
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400px" align="right">
 
 
-- 🔭 Men hozir Open Web academyda  o'qiyapman
-
 - 🌱 Hozirda **Frontend** -ni o'rganyapman.
 
 - 👨‍💻 Barcha loyihalarim [diyorbeknewportfolio77.netlify.app](diyorbeknewportfolio77.netlify.app) saytida mavjud.
